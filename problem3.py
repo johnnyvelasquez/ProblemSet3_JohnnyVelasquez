@@ -24,5 +24,5 @@ for line in file:
 
 	previous = reading1 
 	
-print("", max_change)
-print("", date_time) 	
+print("The fastest rise in water level is", max_change)
+print("It was observed on", date_time) 	
